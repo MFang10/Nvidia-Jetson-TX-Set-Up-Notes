@@ -1,2 +1,2 @@
-# Nvidia-Jetson-TX1-Set-Up-Notes
+# Nvidia-Jetson-TX-Set-Up-Notes
 Update in progress
